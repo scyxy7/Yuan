@@ -1,0 +1,7 @@
+scenario,method,stranding_mean,final_soc_mean,final_soc_std,steps_mean,steps_std
+A,Baseline,0.0,96.992,1.826,2.0,0.0
+A,FFP,0.0,97.252,1.949,2.0,0.0
+B,Baseline,0.0,94.828,3.411,3.0,0.0
+B,FFP,0.0,94.364,3.249,3.0,0.0
+C,Baseline,0.0,92.65,4.759,4.0,0.0
+C,FFP,0.0,92.665,4.938,4.0,0.0
